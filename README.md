@@ -1,11 +1,11 @@
 ## Archaeological Database Management System
 
-This is my ASD mini project. It is an archaeological database management system.
+This is my team's ASD mini project. It is an archaeological database management system suitable for archaeologists and governments to manage details of various artifacts.
 
 
 **Techstack**
 
-Front-end : *Java GUI*
+Front-end : *Java GUI*, *JSP*
 
 Database : *MySQL*
 
